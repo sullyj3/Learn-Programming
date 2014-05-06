@@ -1,0 +1,13 @@
+get input
+	if input is integer
+		store in i
+	else
+		print error message
+		get new input
+
+currentnumber = 1
+total=0
+while currentnumber <=1
+	total+=currentnumber
+	currentnumber+=1
+return total
